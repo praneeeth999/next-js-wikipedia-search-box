@@ -1,0 +1,12 @@
+.input{
+    padding: 10px;
+    border:1px solid gray;
+    border-radius: 5%;
+    width: 300px;
+    margin-top: 20px;
+}
+.para{
+    padding: 10px;
+    margin: 5px;
+}
+
